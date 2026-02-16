@@ -1,5 +1,1 @@
-{
-  "quest_name": "The Librarian's Secret",
-  "objective": "Find the missing scrolls",
-  "difficulty": 5
-}
+{"quests":[{"quest_name":"The Librarian's Secret","objective":"Find the missing scrolls","difficulty":5},{"quest_name":"Ευσέβιος Test Quest","objective":"Test the spawning system","difficulty":1,"quest_data":{"title":"Η Χρονολόγηση του Ευσεβίου","characters":[{"role":"scribe_main","name":"Ευσέβιος Καισαρείας","dialogue_intro":"Καλημέρα, νέε μαθητή!","dialogue_quest":"Βρες τα τρία κλειδιά γεγονότα.","dialogue_complete":"Εξαιρετικά!","dialogue_hint":"Ψάξε για το 313 μ.Χ."},{"role":"assistant_scribe","name":"Παμφίλος","dialogue_intro":"Χαίρε! Δούλευα στην αντιγραφή.","dialogue_hint":"Η Νίκαια είναι κρίσιμη."}],"interactive_objects":[{"id":"scroll_01","type":"papyrus_scroll","text":"Διάταγμα Μεδιολάνων 313 μ.Χ.","is_key_item":true},{"id":"scroll_02","type":"papyrus_scroll","text":"Σύνοδος Νικαίας 325 μ.Χ.","is_key_item":true},{"id":"book_01","type":"codex","text":"Εκκλησιαστική Ιστορία","is_key_item":false}]}}]}
